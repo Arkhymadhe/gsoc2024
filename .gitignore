@@ -7,4 +7,3 @@ task_3g
 .ipynb_checkpoints
 MNIST
 archive/
-*.pt
