@@ -1,0 +1,10 @@
+task_3ab
+task_3c
+task_3d
+task_3f
+task_3g
+/*/dataset
+.ipynb_checkpoints
+MNIST
+archive/
+*.pt
